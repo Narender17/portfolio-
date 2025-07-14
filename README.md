@@ -5,7 +5,8 @@ This portfolio showcases my projects in web development and programming, built u
 <img width="1920" height="1020" alt="Screenshot 2025-07-15 000342" src="https://github.com/user-attachments/assets/f39cbb60-f935-40c3-b674-6072732d83e4" />
 next page 
 <img width="1920" height="1020" alt="Screenshot 2025-07-15 000516" src="https://github.com/user-attachments/assets/c15828bd-9c63-4e86-b313-233ea1b2d391" />
-### Features
+<br>
+## Features
 👤 About Me: Brief intro with skills and background.<br>
 💼 Projects Showcase: Key projects with tech stack, descriptions, and live/demo links.<br>
 🛠️ Skills Section: Programming languages, tools, and frameworks I use.<br>
