@@ -1,2 +1,4 @@
 # portfolio-
-Welcome to my portfolio! I'm a passionate and dedicated developer with hands-on experience in building modern web applications, creative projects, and practical solutions using technologies like HTML, CSS, JavaScript, Python, and more. This portfolio showcases a selection of my work, including web development projects, programming challenges, and personal experiments. Each project reflects my learning journey, problem-solving skills, and love for clean, user-friendly design. I'm always exploring new tools and technologies to expand my skill set and take on new challenges. 
+This portfolio showcases my projects in web development and programming, built using technologies like HTML, CSS, JavaScript, and Python. It reflects my passion for coding, creative problem-solving, and continuous learning.
+[Link Text]([https://example.com](http://127.0.0.1:5500/portfilo(nk)/index.html))
+
